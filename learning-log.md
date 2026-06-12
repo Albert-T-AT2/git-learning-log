@@ -8,6 +8,8 @@ I'm learning Git and version control to track my work.
 - Learn branching and merging
 - Push my work to GitHub
 
-## What I Learned Today 
+## What I Learned Today
 - Git is like a time machine for your files
-- Every commit is snapshot you can go back to
+- Every commit is a snapshot you can go back to
+- Branches let you experiment without affecting the main project
+- You can merge branches back together when ready
